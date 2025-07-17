@@ -1,2 +1,2 @@
-# TheQuiteWriter.github.io
+# hello
 Cerebras API tutorial for JanitorAI proxies.
