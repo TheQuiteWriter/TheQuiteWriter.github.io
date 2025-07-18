@@ -6,7 +6,7 @@ This Tutorial will walk you through:
 + **Step 3**: [Selecting a model](#selecting-a-model)
 + **Step 4**: [Using Cerebras.AI endpoint in JanitorAI](#using-cerebrasai-endpoint-in-janitorai)
 
-I also made a [Troubleshooting Guide](#troubleshooting):
+I also made a [Troubleshooting Guide](#troubleshooting-guide):
 + [How to know if a bot supports proxies?](#how-to-know-if-a-bot-supports-proxies)
 + [Why am I getting errors?](#why-am-i-getting-errors)
 
@@ -72,7 +72,7 @@ Now, you are almost done, just need to change a few more parameters to make it u
 And Congratulations!! 🎉🎉🎉 you now have a much better model that can actually remember names and events and not mix things up!
 
 
-# Troubleshooting
+# Troubleshooting Guide
 
 ## How to know if a bot supports proxies?
 To know if a bot supports proxies, click on it to view its page, then scroll down.
@@ -103,4 +103,4 @@ This is because you either have the `Temperature` too low or too high. I recomme
 
 
 <br><br><br>
->Tutorial by [TheQuietWriter](https://janitorai.com/profiles/17a94471-5723-443b-bb9d-5e612be8eea5_profile-of-the-quiet-writer).
+<small>Tutorial by [TheQuietWriter](https://janitorai.com/profiles/17a94471-5723-443b-bb9d-5e612be8eea5_profile-of-the-quiet-writer).</small>
