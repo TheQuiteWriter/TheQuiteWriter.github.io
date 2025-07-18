@@ -1,6 +1,6 @@
 # Cerebras.AI API Tutorial for JanitorAI
 This Guide will walk you through:
-+ [Creating a free account on Cerebras.AI](#creating-a-free-account-on-cerebras-ai)
++ [Creating a free account on Cerebras.AI](#creating-a-free-account-on-cerebrasai)
 + [Getting your API key](#getting-your-api-key)
 + [Selecting a model](#selecting-a-model)
 + [Using Cerebras.AI endpoint in JanitorAI](#using-cerebrasai-endpoint-in-janitorai)
