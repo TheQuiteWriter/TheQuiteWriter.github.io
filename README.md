@@ -3,7 +3,7 @@ This Guide will walk you through:
 + [Creating a free account on Cerebras.AI](#creating-a-free-account-on-cerebras-ai)
 + [Getting your API key](#getting-your-api-key)
 + [Selecting a model](#selecting-a-model)
-+ [Using Cerebras.AI endpoint in JanitorAI](#using-cerebras-ai-endpoint-in-janitorai)
++ [Using Cerebras.AI endpoint in JanitorAI](#using-cerebrasai-endpoint-in-janitorai)
 
 Just **read the tutorial carefully** before doing anything, I have made sure that this is the easiest way to get it working on JanitorAI quickly.
 
