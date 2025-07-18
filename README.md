@@ -103,4 +103,4 @@ This is because you either have the `Temperature` too low or too high. I recomme
 
 
 <br><br><br>
->Tutorial by TheQuietWriter.
+>Tutorial by [TheQuietWriter](https://janitorai.com/profiles/17a94471-5723-443b-bb9d-5e612be8eea5_profile-of-the-quiet-writer).
