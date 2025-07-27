@@ -57,7 +57,7 @@ After that, once you're in the chat page, click the `≡` button on the top righ
 + In the `Model Name` field, enter the ID of the model in the input.
 + In the `Proxy URL` field, enter `https://api.cerebras.ai/v1/chat/completions`.
 + In the `API Key` field, enter your Cerebras.AI API key.
-+ Optionally enter a custom Jailbreak prompt if you have one (You can also select one of the predefined prompts provided by JanitorAI for different purposes).
++ In the `Custom Prompt` field, you can optionally enter a custom Jailbreak prompt if you have one.
 + Click the `Save Changes` button (NOT the `Save Settings` button)
 + Click the `Save Settings` button on the bottom right.
 
