@@ -1,3 +1,4 @@
+
 # Cerebras.AI API Tutorial for JanitorAI
 
 This Tutorial will walk you through:
@@ -51,12 +52,14 @@ Before we start, make sure you have the following:
 To start, head to [JanitorAI Login Page](https://janitorai.com/login) (or [Sign Up](https://janitorai.com/register)) and login to your account, then, go to the home page select a bot that supports proxies ([How to know if a bot supports proxies?](#how-to-know-if-a-bot-supports-proxies)). Then, click `Chat with [BOT]` or `Continue latest chat`.
 
 After that, once you're in the chat page, click the `≡` button on the top right and select `API Settings`. Select the tab named `Proxy` instead of `JanitorLLM Beta`. You will then see lots of stuff, I know, I know, just don't let it freak you out, it's really simple. Here's what you need to do: 
-+ Under the label `Model` choose `Custom` then enter the ID of the model in the input.
-+ Under the label `Other API/Proxy URL` enter `https://api.cerebras.ai/v1/chat/completions`.
-+ Ignore the `Check API key/model` button.
-+ Under the label `API Key` enter your Cerebras.AI API key.
-+ Optionally change the Jailbreak prompt if you have a different one (You can also select one of the predefined prompts provided by JanitorAI for different purposes).
-+ Click the `Save` button.
++ Find the `Default Configuration`, then click `Edit`
++ In the `Configuration Name` field, type `Cerebras.AI` (or anything you want, it's just a name)
++ In the `Model Name` field, enter the ID of the model in the input.
++ In the `Proxy URL` field, enter `https://api.cerebras.ai/v1/chat/completions`.
++ In the `API Key` field, enter your Cerebras.AI API key.
++ Optionally enter a custom Jailbreak prompt if you have one (You can also select one of the predefined prompts provided by JanitorAI for different purposes).
++ Click the `Save Changes` button (NOT the `Save Settings` button)
++ Click the `Save Settings` button on the bottom right.
 
 > **<u>Important Note:</u>**
 > 
@@ -92,7 +95,7 @@ There are several reasons why you may get an error and that depends on the type 
 
 ### Error: Failed to fetch
 This means that either:
-+ You didn't provide the correct `Other API/Proxy URL` or left it empty.
++ You didn't provide the correct `Proxy URL` or left it empty.
 + You somehow reached the **rate limit** (trust me, it's almost impossible).
 
 ### Error: Can't have a proxy with no key defined
